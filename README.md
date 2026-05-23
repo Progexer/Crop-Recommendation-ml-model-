@@ -5,7 +5,7 @@ This project was built for Smart India Hackathon (SIH) as part of our team work.
 The goal is to recommend suitable crops for Jharkhand based on soil and weather features such as moisture, nutrients, rainfall, and wind speed.
 
 ## Dataset
-The training dataset is stored in `jharkhand.csv` and uses the following columns (exact spellings from the CSV):
+The training dataset is stored in our `csv` and uses the following columns (exact spellings from the CSV):
 
 - Temparature
 - Humidity
